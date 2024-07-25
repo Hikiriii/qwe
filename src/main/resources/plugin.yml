@@ -1,0 +1,6 @@
+name: GeneratorHikiri
+version: '${project.version}'
+main: org.za.generatorhikiri.GeneratorHikiri
+api-version: 1.16
+commands:
+  generator:

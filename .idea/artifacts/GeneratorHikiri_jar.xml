@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GeneratorHikiri:jar">
+    <output-path>$PROJECT_DIR$/../SkyBlock/plugins</output-path>
+    <root id="archive" name="GeneratorHikiri.jar">
+      <element id="module-output" name="GeneratorHikiri" />
+    </root>
+  </artifact>
+</component>

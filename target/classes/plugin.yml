@@ -1,0 +1,6 @@
+name: GeneratorHikiri
+version: '1.0-SNAPSHOT1'
+main: org.za.generatorhikiri.GeneratorHikiri
+api-version: 1.16
+commands:
+  generator:
